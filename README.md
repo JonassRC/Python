@@ -1,6 +1,6 @@
 ## Olá, meu nome é Jonas Rocha, sou criador de conteúdo de programação e tecnologia!
 
-## <h1> Tecnologias e Ferramentas</h1>
+## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jonas-CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
